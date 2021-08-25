@@ -14,6 +14,7 @@ menu:
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
+  videos: /videos/ || fa fa-video
 
 # ---------------------------------------------------------------
 # Sidebar Settings
@@ -21,7 +22,7 @@ menu:
 
 # Sidebar Avatar
 avatar:
-  url: /images/avatar.gif
+  url: https://toadlive.cn/static/images/avatar.jpg
   rounded: true
 
 
