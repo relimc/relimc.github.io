@@ -124,13 +124,13 @@ symbols_count_time:
 
 
 # 豆瓣
-douban:
-  user: 203805611
-  builtin: true
-  book:
-    title: 'This is my book title'
-    quote: 'This is my book quote'
-  movie:
-    title: 'This is my movie title'
-    quote: 'This is my movie quote'
-  timeout: 10000
+# douban:
+#   user: 203805611
+#   builtin: true
+#   book:
+#     title: 'This is my book title'
+#     quote: 'This is my book quote'
+#   movie:
+#     title: 'This is my movie title'
+#     quote: 'This is my movie quote'
+#   timeout: 10000
