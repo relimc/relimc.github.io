@@ -10,6 +10,8 @@ tags: ["docker"]
 
 我想要确保软件系统是干净，同时又希望软件系统一装好，我就能拿它来干活。Docker 就是能呼应你内心呼声的工具。
 
+<!-- more -->
+
 ## 安装 Docker
 详见：https://www.runoob.com/docker/ubuntu-docker-install.html
 
